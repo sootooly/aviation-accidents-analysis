@@ -1,1 +1,1 @@
-# aviation-accidents-analysis
+# Aviation accidents analysis
